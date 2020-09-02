@@ -23,4 +23,4 @@ public:
 
     int getInvoiceAmount();
 };
-© 2020 GitHub, Inc.
+
